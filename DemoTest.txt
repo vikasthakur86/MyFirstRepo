@@ -1,2 +1,0 @@
-This is Demo File.
-Demo for Uipath Robot
